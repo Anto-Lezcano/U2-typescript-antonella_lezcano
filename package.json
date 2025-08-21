@@ -1,0 +1,24 @@
+{
+  "name": "u2-typescript-antonella_lezcano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anto-Lezcano/U2-typescript-antonella_lezcano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Anto-Lezcano/U2-typescript-antonella_lezcano/issues"
+  },
+  "homepage": "https://github.com/Anto-Lezcano/U2-typescript-antonella_lezcano#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
